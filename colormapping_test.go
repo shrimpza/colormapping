@@ -3,7 +3,7 @@ package colormapping_test
 import (
 	"testing"
 
-	"github.com/minetest-go/colormapping"
+	"github.com/shrimpza/colormapping"
 	"github.com/stretchr/testify/assert"
 )
 
